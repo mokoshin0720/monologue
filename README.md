@@ -1,1 +1,1 @@
-# template-django-flutter
+# monologue
